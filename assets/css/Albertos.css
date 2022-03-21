@@ -1,0 +1,26 @@
+.myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.5;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content_1 {
+    position: absolute;
+    display: block;
+    margin: auto;
+    /* background: rgba(0, 0, 0, 0.5); */
+    color: #f1f1f1;
+    width: 230%;
+    padding: 20px;
+    margin-top: 15%;
+    margin-left: auto;
+
+  }
+
+  .div_paquete{
+    background-image: linear-gradient(45deg,pink,skyblue);
+  }
